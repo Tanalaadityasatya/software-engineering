@@ -1,0 +1,7 @@
+CYCLOMATICCOMPLEXITY= E – N + 2P 
+E = the number of edges in the control flow graph =12 
+N = the number of nodes in the control flow graph =13
+P = the number of connected components =5
+
+CYCLOMATICOMPLEXITY= 12-13+2(5) = -1+10= 9
+SOOO.... cyclomatic complexity is 9
